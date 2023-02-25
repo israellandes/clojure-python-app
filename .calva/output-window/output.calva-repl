@@ -1,0 +1,417 @@
+; This is the Calva evaluation results output window.
+; TIPS: The keyboard shortcut `ctrl+alt+o o` shows and focuses this window
+;   when connected to a REPL session.
+; Please see https://calva.io/output/ for more info.
+; Happy coding! ♥️
+
+; Jacking in...
+; Jacking in...
+; Connecting using "undefined" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "undefined"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Aborting jack-in. No project type selected.
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉>  ; Use `alt+enter` to evaluate
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+[libpython-clj2.python
+ :refer
+ [as-python
+  as-jvm
+  ->python
+  ->jvm
+  get-attr
+  call-attr
+  call-attr-kw
+  get-item
+  initialize!
+  run-simple-string
+  add-module
+  module-dict
+  import-module
+  python-type
+  dir]
+ :as
+ py]
+clj꞉user꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Execution error (NoClassDefFoundError) at java.lang.Class/forName0 (Class.java:-2).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Syntax error (NoClassDefFoundError) compiling at (libpython_clj2\codegen.clj:1:1).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +uberjar repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Syntax error (NoClassDefFoundError) compiling at (libpython_clj2\codegen.clj:1:1).
+; Could not initialize class libpython_clj2.python__init
+clj꞉user꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jacking in...
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+nil
+clj꞉clojure-app.core꞉> 
+nil
+clj꞉clojure-app.core꞉> 
+:already-initialized
+clj꞉clojure-app.core꞉> 
+#'clojure-app.core/-main
+clj꞉clojure-app.core꞉> 
+; Execution error (IllegalCallerException) at jdk.internal.reflect.Reflection/ensureNativeAccess (Reflection.java:112).
+; Illegal native access from: unnamed module @7c329d38
+clj꞉clojure-app.core꞉> 
+#'clojure-app.core/-main
+clj꞉clojure-app.core꞉> 
+; Execution error (IllegalCallerException) at jdk.internal.reflect.Reflection/ensureNativeAccess (Reflection.java:112).
+; Illegal native access from: unnamed module @7c329d38
+clj꞉clojure-app.core꞉> 
+; Execution error (IllegalCallerException) at jdk.internal.reflect.Reflection/ensureNativeAccess (Reflection.java:112).
+; Illegal native access from: unnamed module @7c329d38
+clj꞉clojure-app.core꞉> 
+nil
+clj꞉clojure-app.core꞉> 
+:already-initialized
+clj꞉clojure-app.core꞉> 
+; Execution error (IllegalCallerException) at jdk.internal.reflect.Reflection/ensureNativeAccess (Reflection.java:112).
+; Illegal native access from: unnamed module @7c329d38
+clj꞉clojure-app.core꞉> 
+"print('hey')"
+clj꞉clojure-app.core꞉> 
+; Execution error (IllegalCallerException) at jdk.internal.reflect.Reflection/ensureNativeAccess (Reflection.java:112).
+; Illegal native access from: unnamed module @7c329d38
+clj꞉clojure-app.core꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+nil
+clj꞉clojure-app.core꞉> 
+nil
+clj꞉clojure-app.core꞉> 
+:already-initialized
+clj꞉clojure-app.core꞉> 
+#'clojure-app.core/-main
+clj꞉clojure-app.core꞉> 
+; Execution error (ClassNotFoundException) at java.net.URLClassLoader/findClass (URLClassLoader.java:445).
+; jdk.incubator.foreign.MemoryAddress
+clj꞉clojure-app.core꞉> 
+; Execution error (ClassNotFoundException) at java.net.URLClassLoader/findClass (URLClassLoader.java:445).
+; jdk.incubator.foreign.MemoryAddress
+clj꞉clojure-app.core꞉> 
+; Jacking in...
+; Connecting using "Leiningen" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "Leiningen"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"1.0.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉clojure-app.core꞉> 
+; Jack-in done.
+clj꞉clojure-app.core꞉> 
+nil
+clj꞉clojure-app.core꞉> 
+hey
+{:globals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :locals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :retval nil}
+clj꞉clojure-app.core꞉> 
+hey
+{:globals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :locals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :retval nil}
+clj꞉clojure-app.core꞉> 
+"print('hey')"
+clj꞉clojure-app.core꞉> 
+hey
+{:globals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :locals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :retval nil}
+clj꞉clojure-app.core꞉> 
+hey
+{:globals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :locals
+ {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, 'os': <module 'os' from 'C:\\Users\\Is-Rael\\anaconda3\\lib\\os.py'>, 'path': 'C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Library\\mingw-w64\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\usr\\bin;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\bin;C:\\Users\\Is-Rael\\anaconda3\\condabin;C:\\Program Files\\Java\\jdk-17\\bin;C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.6.10-hotspot\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Users\\Is-Rael\\Desktop\\testbot\\testbot_env\\Scripts\\python.exe;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python38\\Scripts;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\System32\\OpenSSH;C:\\Python 3.9;C:\\Python 3.9\\Scripts;C:\\Webdrivers;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\PuTTY;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\QuickTime\\QTSystem;C:\\Program Files\\dotnet;C:\\Program Files (x86)\\dotnet;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\Git LFS;C:\\Curl\\curl-7.88.0-win64-mingw\\bin;C:\\Lein;C:\\Users\\Is-Rael\\anaconda3;C:\\Users\\Is-Rael\\anaconda3\\Scripts;C:\\Users\\Is-Rael\\anaconda3\\Library\\bin;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Python\\Python36\\Scripts;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\npm-lifecycle\\node-gyp-bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\windows-build-tools\\node_modules\\.bin;C:\\Users\\Is-Rael\\AppData\\Roaming\\npm\\node_modules\\.bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\UCRT;C:\\Program Files\\Intel\\UCRT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Prog;C:\\Users\\Is-Rael\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Lein;.'},
+ :retval nil}
+clj꞉clojure-app.core꞉> 
